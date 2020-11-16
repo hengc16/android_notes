@@ -38,5 +38,5 @@ dependencies {
 
 在AndroidManifest里声明权限
 
-![](.gitbook/assets/image%20%2831%29.png)
+![](.gitbook/assets/image%20%2833%29.png)
 

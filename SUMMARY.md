@@ -6,4 +6,6 @@
 * [EditText](edittext.md)
 * [RadioButton](radiobutton.md)
 * [imageView](imageview.md)
+* [ListView](listview.md)
+* [scrollView](scrollview.md)
 
