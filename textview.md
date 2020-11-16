@@ -20,7 +20,7 @@
 
 下面-xxhdpi 表示不同的分辨率存不同图片
 
-![](.gitbook/assets/image%20%2823%29.png)
+![](.gitbook/assets/image%20%2824%29.png)
 
 使用drawableRight 将icon图片放在text右侧
 
