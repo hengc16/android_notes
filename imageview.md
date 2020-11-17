@@ -4,13 +4,13 @@
 
 src属性
 
-![](.gitbook/assets/image%20%2837%29.png)
+![](.gitbook/assets/image%20%2839%29.png)
 
 scaleType 属性 里的fitXY 撑满当前宽高，（图片会被拉伸）
 
-![](.gitbook/assets/image%20%2826%29.png)
+![](.gitbook/assets/image%20%2827%29.png)
 
-![](.gitbook/assets/image%20%2832%29.png)
+![](.gitbook/assets/image%20%2834%29.png)
 
 ### 加载网络图片
 
@@ -38,5 +38,5 @@ dependencies {
 
 在AndroidManifest里声明权限
 
-![](.gitbook/assets/image%20%2851%29.png)
+![](.gitbook/assets/image%20%2858%29.png)
 

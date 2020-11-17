@@ -10,4 +10,7 @@
 * [Recycler View\_1](recycler-view_1.md)
 * [fragment](fragment.md)
 * [fragment\_2](fragment_2.md)
+* [fragment\_3](fragment_3.md)
+* [fragment\_4](fragment_4.md)
+* [属性动画](shu-xing-dong-hua.md)
 

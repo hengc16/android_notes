@@ -1,8 +1,10 @@
 # fragment\_2
 
-![](.gitbook/assets/image%20%2838%29.png)
+### 处理null
 
-![](.gitbook/assets/image%20%2833%29.png)
+![](.gitbook/assets/image%20%2840%29.png)
+
+![](.gitbook/assets/image%20%2835%29.png)
 
 ![](.gitbook/assets/image%20%2825%29.png)
 
@@ -14,13 +16,13 @@
 
 ### 给fragment负参数
 
-![](.gitbook/assets/image%20%2849%29.png)
+![](.gitbook/assets/image%20%2855%29.png)
 
-![](.gitbook/assets/image%20%2847%29.png)
+![](.gitbook/assets/image%20%2853%29.png)
 
 通过getArgument来更改text
 
 在container里传参
 
-![](.gitbook/assets/image%20%2848%29.png)
+![](.gitbook/assets/image%20%2854%29.png)
 
