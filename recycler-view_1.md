@@ -29,4 +29,5 @@
   * 改写onbindview holder
     * 通过holder的属性得到控件，对其进行更改。
 * 回到activity里，set我们建好的adapter
+* 可以通过在adapter里写interface  listener 和constructor传入listener 来实现回调函数，让activity可以new一个listener在创造adapter时，override它的onclick 来从外部接收点击事件response。
 
